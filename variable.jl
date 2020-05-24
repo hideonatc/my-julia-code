@@ -1,4 +1,5 @@
 x = 5
+print("x is ",x) #x is 5
 println(typeof(x)) #Int64
 y = 1.0
 println(typeof(y)) #Float64
